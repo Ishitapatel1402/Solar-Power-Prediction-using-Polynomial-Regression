@@ -8,14 +8,14 @@ This project predicts solar power generation using environmental and weather-rel
 
 ## Features
 
-- ✓ Data preprocessing and cleaning
-- ✓ Exploratory data inspection
-- ✓ Polynomial feature generation
-- ✓ Polynomial Regression model training
-- ✓ Model evaluation metrics:
+✓ Data preprocessing and cleaning
+✓ Exploratory data inspection
+✓ Polynomial feature generation
+✓ Polynomial Regression model training
+✓ Model evaluation metrics:
   - Mean Squared Error (MSE)
   - R² Score
-- ✓ Visualization of Actual vs Predicted Power Generation
+✓ Visualization of Actual vs Predicted Power Generation
 
 ## Dataset Attributes
 
@@ -97,4 +97,3 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 
 ---
 
-Feel free to fork this project and contribute improvements!
