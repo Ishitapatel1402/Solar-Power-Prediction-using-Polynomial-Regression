@@ -1,6 +1,6 @@
 # Solar Power Prediction using Polynomial Regression
 
-🌞 A Machine Learning project that predicts solar power generation using Polynomial Regression based on temperature, humidity, wind speed, and solar incidence angle data.
+A Machine Learning project that predicts solar power generation using Polynomial Regression based on temperature, humidity, wind speed, and solar incidence angle data.
 
 ## Overview
 
@@ -8,14 +8,14 @@ This project predicts solar power generation using environmental and weather-rel
 
 ## Features
 
-✓ Data preprocessing and cleaning
-✓ Exploratory data inspection
-✓ Polynomial feature generation
-✓ Polynomial Regression model training
-✓ Model evaluation metrics:
+- Data preprocessing and cleaning
+- Exploratory data inspection
+- Polynomial feature generation
+- Polynomial Regression model training
+- Model evaluation metrics:
   - Mean Squared Error (MSE)
   - R² Score
-✓ Visualization of Actual vs Predicted Power Generation
+- Visualization of Actual vs Predicted Power Generation
 
 ## Dataset Attributes
 
